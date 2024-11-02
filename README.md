@@ -3,23 +3,28 @@
 # 1. Credit/Debit Card Designs 💳
 
 ## A collection of modern, customizable credit/debit card designs created using pure SVG. Perfect for web applications, banking interfaces, and e-commerce projects.
+![black-card](https://github.com/user-attachments/assets/09d2b669-4762-4cea-a9a2-67712879d3ac) ![green-card](https://github.com/user-attachments/assets/ae212f19-eb13-40dc-aabe-890a3be811e0)
+![blue-card](https://github.com/user-attachments/assets/18f0221e-0293-4b63-94df-2ad431a04f2f) ![purple-card](https://github.com/user-attachments/assets/b40815f8-c7f7-4531-9750-08ba3fa49eba)
+
+ 
+
 
 # 🎨 Available Designs
 
-- Glass Card - Modern glassmorphism design with metallic accents
-- Gradient Card - Sleek gradient finish with wave patterns
+- Purple Card - Modern purple design with metallic accents
+- Green Card - Modern green color 
 - Dark Card - Minimalist dark theme with geometric elements
-- Pattern Card - Contemporary dot pattern design with blue theme
+- Blue Card - Contemporary dot pattern design with blue theme
 
 # 📁 Project Structure
 
 ```
 svg-designs/
 ├── cards/
-│   ├── glass-card.svg
-│   ├── gradient-card.svg
-│   ├── dark-card.svg
-│   └── pattern-card.svg
+│   ├── black-card.svg
+│   ├── geen-card.svg
+│   ├── blue-card.svg
+│   └── purple-card.svg
 
 ```
 
