@@ -1,0 +1,66 @@
+<svg viewBox="0 0 340 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card Base -->
+  <rect 
+    x="10" y="10" 
+    width="320" height="200" 
+    rx="10" 
+    fill="#1a1a1a"
+    filter="drop-shadow(0 4px 6px rgba(0,0,0,0.2))"
+  />
+  
+  <!-- Chip -->
+  <rect 
+    x="40" y="70" 
+    width="50" height="40" 
+    rx="4" 
+    fill="#FFD700"
+  />
+
+  <!-- Card Details -->
+  <!-- Card Number -->
+  <text 
+    x="40" y="150" 
+    font-family="monospace" 
+    font-size="20" 
+    fill="#ffffff" 
+    letter-spacing="2"
+  >1234 5678 9012 3456</text>
+
+  <!-- Name and Date -->
+  <text 
+    x="40" y="180" 
+    font-family="Arial" 
+    font-size="14" 
+    fill="#ffffff"
+  >Sidramaraddy M</text>
+
+  <text 
+    x="280" y="180" 
+    font-family="Arial" 
+    font-size="14" 
+    fill="#ffffff" 
+    text-anchor="end"
+  >01/28</text>
+
+  <!-- Top Labels -->
+  <text 
+    x="40" y="40" 
+    font-family="Arial" 
+    font-size="14" 
+    fill="#ffffff"
+  >Credit Card</text>
+
+  <text 
+    x="280" y="40" 
+    font-family="Arial" 
+    font-size="14" 
+    fill="#ffffff" 
+    text-anchor="end"
+  >Bank Name</text>
+
+  <!-- Subtle highlight for card shine -->
+  <path 
+    d="M10,10 h320 v50 q-160,20 -320,0 v-50" 
+    fill="rgba(255,255,255,0.03)"
+  />
+</svg>
